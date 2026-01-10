@@ -7,3 +7,5 @@ echo "hello"
 #
 #
 ##########Multiplication
+
+echo "Main branch change to practice merge conflicts"
